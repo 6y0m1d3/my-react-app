@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         <code>Welcome Ayo</code> 
+         <code>Welcome</code> 
         </p>
         <a
           className="App-link"
@@ -23,3 +23,5 @@ function App() {
 }
 
 export default App;
+
+
